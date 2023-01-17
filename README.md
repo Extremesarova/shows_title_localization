@@ -43,5 +43,5 @@ Several causes of dissimilarity:
 
 Code to perform the research can be found here:
 
-* [Notebook]()
-* [Main functions]()
+* [Notebook](https://nbviewer.org/github/Extremesarova/shows_title_localization/blob/main/notebooks/movie_title_translation.ipynb)
+* [Utils](https://github.com/Extremesarova/shows_title_localization/blob/main/src/title_localization_utils.py)
